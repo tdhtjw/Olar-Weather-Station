@@ -1,8 +1,8 @@
 # Olar-Weather-Station
 This repository shares the information on the metadata of the weather station, and sampling rate, and provides readers with request access to weather station data
 The variables measured by the weather station and their respective units. 
-BattV=Volts (Battery voltage level); Sampled every 5 seconds
-PTemp_C=Deg C; Sampled every 5 seconds
+BattV=Volts (Battery voltage level); Sampled every 5 seconds.
+PTemp_C=Deg C; Sampled every 5 seconds.
 SlrMJ=MJ/m^2 (Total solar radiation measured using Pyranometer) Calculated based on the SlrW and scan rate
 DewPtC=Deg C (Dew point temperature) Scanned every minute and averaged over 60 minutes
 BP_mbar=mbar (Barometric pressure) Measured every 5 seconds and averaged for every 60 minutes
