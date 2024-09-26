@@ -1,6 +1,6 @@
 # Olar-Weather-Station
 This repository shares the information on the metadata of the weather station, and sampling rate, and provides readers with request access to weather station data
-The variables measured by the weather station and their respective units.
+The variables measured by the weather station and their respective units. 
 BattV=Volts (Battery voltage level); Sampled every 5 seconds
 PTemp_C=Deg C; Sampled every 5 seconds
 SlrMJ=MJ/m^2 (Total solar radiation measured using Pyranometer) Calculated based on the SlrW and scan rate
