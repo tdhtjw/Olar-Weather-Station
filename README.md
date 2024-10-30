@@ -23,9 +23,7 @@ CS320_Temp=Deg C (Temperature measured by the Pyranometer) Scanned every minute 
 CS320_Angle=degrees (Solar radiation angle) Scanned every minute and averaged over 60 minutes.<br>
 
 The current version of the program running in Datalogger is shared for you to look at.<br>
-If you need access to weather station data, please reach out to hdakshin@scsu. If you need any changes to be made in the datalogger program to align with your research objectives please send that information along to the same email id.<br>
-If you belong to South Carolina State University and 1890, please install the LoggerLink app on your smartphone. Reach out to the above email ID after installing, all the details regarding the weather station will be shared to monitor the data using the app on your mobile device.<br>
 The dashboard for Olar Weather station is available at this link: https://app.konectgds.com/kiosk/a44bb94a-6d20-4d53-bd09-520fc1a1c628 <br>
 The dashboard gets updated every 60 minutes and is open for the public to view. <br>
-The information on the sensors installed and their respective manuals are also available for your reference. <br>
+The information on the sensors installed and their respective manuals are also available for you to look over. <br>
 The weather station product manual folder description contains the list of all the sensors used for reference.<br>
