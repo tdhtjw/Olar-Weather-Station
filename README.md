@@ -1,4 +1,4 @@
-# Olar-Weather-Station
+# SC State University 1890 Research and Extension Olar-Weather-Station (Close to Bamberg, SC 29843)
 This repository shares the information on the metadata of the weather station, and sampling rate, and provides readers with request access to weather station data.<br> 
 The variables measured by the weather station and their respective units.<br> 
 BattV=Volts (Battery voltage level); Sampled every 5 seconds.<br>
